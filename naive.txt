@@ -1,17 +1,669 @@
+Suporte entre leite e cafe é de 0.0(0.0%)
+Suporte entre leite e cafe é de 0.6(60.0%)
+Confiança entre leite e cafe é de 0.5(60.0%)
+
+Suporte entre cafe e cerveja é de 0.9(90.0%)
+Confiança entre cafe e cerveja é de 0.5(90.0%)
+
+Suporte entre cerveja e pao é de 0.4(40.0%)
+Confiança entre cerveja e pao é de 0.3333333333333333(40.0%)
+
+Suporte entre pao e manteiga é de 1.3(130.0%)
+Confiança entre pao e manteiga é de 0.43333333333333335(130.0%)
+
+Suporte entre manteiga e arroz é de 1.3(130.0%)
+Confiança entre manteiga e arroz é de 0.43333333333333335(130.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre leite e cafe é de 0.6(60.0%)
+Confiança entre leite e cafe é de 0.5(60.0%)
+
+Suporte entre cafe e cerveja é de 0.9(90.0%)
+Confiança entre cafe e cerveja é de 0.5(90.0%)
+
+Suporte entre cerveja e pao é de 0.4(40.0%)
+Confiança entre cerveja e pao é de 0.3333333333333333(40.0%)
+
+Suporte entre pao e manteiga é de 1.3(130.0%)
+Confiança entre pao e manteiga é de 0.43333333333333335(130.0%)
+
+Suporte entre manteiga e arroz é de 1.3(130.0%)
+Confiança entre manteiga e arroz é de 0.43333333333333335(130.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre leite e cerveja é de 0.1(10.0%)
+Confiança entre leite e cerveja é de 0.5(10.0%)
+
+Suporte entre cafe e pao é de 0.2(20.0%)
+Confiança entre cafe e pao é de 0.5(20.0%)
+
+Suporte entre cerveja e manteiga é de 0.4(40.0%)
+Confiança entre cerveja e manteiga é de 0.6666666666666666(40.0%)
+
+Suporte entre pao e arroz é de 0.6(60.0%)
+Confiança entre pao e arroz é de 0.75(60.0%)
+
+Suporte entre manteiga e feijao é de 0.6(60.0%)
+Confiança entre manteiga e feijao é de 0.6(60.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.0(0.0%)
+Confiança entre arroz e arroz é de 0.0(0.0%)
+
+Suporte entre arroz e feijao é de 0.2(20.0%)
+Confiança entre arroz e feijao é de 0.2(20.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.0(0.0%)
+Confiança entre arroz e arroz é de 0.0(0.0%)
+
+Suporte entre arroz e feijao é de 0.2(20.0%)
+Confiança entre arroz e feijao é de 0.2(20.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.0(0.0%)
+Confiança entre arroz e arroz é de 0.0(0.0%)
+
+Suporte entre arroz e feijao é de 0.2(20.0%)
+Confiança entre arroz e feijao é de 0.2(20.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.0(0.0%)
+Confiança entre arroz e arroz é de 0.0(0.0%)
+
+Suporte entre arroz e feijao é de 0.2(20.0%)
+Confiança entre arroz e feijao é de 0.2(20.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.0(0.0%)
+Confiança entre arroz e arroz é de 0.0(0.0%)
+
+Suporte entre arroz e feijao é de 0.2(20.0%)
+Confiança entre arroz e feijao é de 0.2(20.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.0(0.0%)
+Confiança entre arroz e arroz é de 0.0(0.0%)
+
+Suporte entre arroz e feijao é de 0.2(20.0%)
+Confiança entre arroz e feijao é de 0.2(20.0%)
+
+Suporte entre leite e cafe é de 0.1(10.0%)
+Confiança entre leite e cafe é de 0.5(10.0%)
+
+Suporte entre leite e cerveja é de 0.2(20.0%)
+Confiança entre leite e cerveja é de 0.5(20.0%)
+
+Suporte entre leite e pao é de 0.4(40.0%)
+Confiança entre leite e pao é de 0.6666666666666666(40.0%)
+
+Suporte entre leite e manteiga é de 0.6(60.0%)
+Confiança entre leite e manteiga é de 0.75(60.0%)
+
+Suporte entre leite e arroz é de 0.6(60.0%)
+Confiança entre leite e arroz é de 0.6(60.0%)
+
+Suporte entre leite e feijao é de 0.6(60.0%)
+Confiança entre leite e feijao é de 0.5(60.0%)
+
+Suporte entre leite e cafe é de 0.1(10.0%)
+Confiança entre leite e cafe é de 0.5(10.0%)
+
+Suporte entre leite e cerveja é de 0.2(20.0%)
+Confiança entre leite e cerveja é de 0.5(20.0%)
+
+Suporte entre leite e pao é de 0.4(40.0%)
+Confiança entre leite e pao é de 0.6666666666666666(40.0%)
+
+Suporte entre leite e manteiga é de 0.6(60.0%)
+Confiança entre leite e manteiga é de 0.75(60.0%)
+
+Suporte entre leite e arroz é de 0.6(60.0%)
+Confiança entre leite e arroz é de 0.6(60.0%)
+
+Suporte entre leite e feijao é de 0.6(60.0%)
+Confiança entre leite e feijao é de 0.5(60.0%)
+
+Suporte entre cafe e cafe é de 0.3(30.0%)
+Confiança entre cafe e cafe é de 1.0(30.0%)
+
+Suporte entre cafe e cerveja é de 0.3(30.0%)
+Confiança entre cafe e cerveja é de 0.5(30.0%)
+
+Suporte entre cafe e pao é de 0.6(60.0%)
+Confiança entre cafe e pao é de 0.6666666666666666(60.0%)
+
+Suporte entre cafe e manteiga é de 0.9(90.0%)
+Confiança entre cafe e manteiga é de 0.75(90.0%)
+
+Suporte entre cafe e arroz é de 0.9(90.0%)
+Confiança entre cafe e arroz é de 0.6(90.0%)
+
+Suporte entre cafe e feijao é de 0.9(90.0%)
+Confiança entre cafe e feijao é de 0.5(90.0%)
+
+Suporte entre cerveja e cafe é de 0.0(0.0%)
+Confiança entre cerveja e cafe é de 0.0(0.0%)
+
+Suporte entre cerveja e cerveja é de 0.2(20.0%)
+Confiança entre cerveja e cerveja é de 0.5(20.0%)
+
+Suporte entre cerveja e pao é de 0.3(30.0%)
+Confiança entre cerveja e pao é de 0.5(30.0%)
+
+Suporte entre cerveja e manteiga é de 0.4(40.0%)
+Confiança entre cerveja e manteiga é de 0.5(40.0%)
+
+Suporte entre cerveja e arroz é de 0.4(40.0%)
+Confiança entre cerveja e arroz é de 0.4(40.0%)
+
+Suporte entre cerveja e feijao é de 0.4(40.0%)
+Confiança entre cerveja e feijao é de 0.3333333333333333(40.0%)
+
+Suporte entre pao e cafe é de 0.3(30.0%)
+Confiança entre pao e cafe é de 0.6(30.0%)
+
+Suporte entre pao e cerveja é de 0.4(40.0%)
+Confiança entre pao e cerveja é de 0.4(40.0%)
+
+Suporte entre pao e pao é de 0.9(90.0%)
+Confiança entre pao e pao é de 0.6(90.0%)
+
+Suporte entre pao e manteiga é de 1.3(130.0%)
+Confiança entre pao e manteiga é de 0.65(130.0%)
+
+Suporte entre pao e arroz é de 1.3(130.0%)
+Confiança entre pao e arroz é de 0.52(130.0%)
+
+Suporte entre pao e feijao é de 1.3(130.0%)
+Confiança entre pao e feijao é de 0.43333333333333335(130.0%)
+
+Suporte entre manteiga e cafe é de 0.3(30.0%)
+Confiança entre manteiga e cafe é de 0.6(30.0%)
+
+Suporte entre manteiga e cerveja é de 0.4(40.0%)
+Confiança entre manteiga e cerveja é de 0.4(40.0%)
+
+Suporte entre manteiga e pao é de 0.8(80.0%)
+Confiança entre manteiga e pao é de 0.5333333333333333(80.0%)
+
+Suporte entre manteiga e manteiga é de 1.3(130.0%)
+Confiança entre manteiga e manteiga é de 0.65(130.0%)
+
+Suporte entre manteiga e arroz é de 1.3(130.0%)
+Confiança entre manteiga e arroz é de 0.52(130.0%)
+
+Suporte entre manteiga e feijao é de 1.3(130.0%)
+Confiança entre manteiga e feijao é de 0.43333333333333335(130.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 0.2(20.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 0.2(20.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre leite e cafe é de 0.1(10.0%)
+Confiança entre leite e cafe é de 0.5(10.0%)
+
+Suporte entre leite e cerveja é de 0.2(20.0%)
+Confiança entre leite e cerveja é de 0.5(20.0%)
+
+Suporte entre leite e pao é de 0.4(40.0%)
+Confiança entre leite e pao é de 0.6666666666666666(40.0%)
+
+Suporte entre leite e manteiga é de 0.6(60.0%)
+Confiança entre leite e manteiga é de 0.75(60.0%)
+
+Suporte entre leite e arroz é de 0.6(60.0%)
+Confiança entre leite e arroz é de 0.6(60.0%)
+
+Suporte entre leite e feijao é de 0.6(60.0%)
+Confiança entre leite e feijao é de 0.5(60.0%)
+
+Suporte entre cafe e cafe é de 0.3(30.0%)
+Confiança entre cafe e cafe é de 1.0(30.0%)
+
+Suporte entre cafe e cerveja é de 0.3(30.0%)
+Confiança entre cafe e cerveja é de 0.5(30.0%)
+
+Suporte entre cafe e pao é de 0.6(60.0%)
+Confiança entre cafe e pao é de 0.6666666666666666(60.0%)
+
+Suporte entre cafe e manteiga é de 0.9(90.0%)
+Confiança entre cafe e manteiga é de 0.75(90.0%)
+
+Suporte entre cafe e arroz é de 0.9(90.0%)
+Confiança entre cafe e arroz é de 0.6(90.0%)
+
+Suporte entre cafe e feijao é de 0.9(90.0%)
+Confiança entre cafe e feijao é de 0.5(90.0%)
+
+Suporte entre cerveja e cafe é de 0.0(0.0%)
+Confiança entre cerveja e cafe é de 0.0(0.0%)
+
+Suporte entre cerveja e cerveja é de 0.2(20.0%)
+Confiança entre cerveja e cerveja é de 0.5(20.0%)
+
+Suporte entre cerveja e pao é de 0.3(30.0%)
+Confiança entre cerveja e pao é de 0.5(30.0%)
+
+Suporte entre cerveja e manteiga é de 0.4(40.0%)
+Confiança entre cerveja e manteiga é de 0.5(40.0%)
+
+Suporte entre cerveja e arroz é de 0.4(40.0%)
+Confiança entre cerveja e arroz é de 0.4(40.0%)
+
+Suporte entre cerveja e feijao é de 0.4(40.0%)
+Confiança entre cerveja e feijao é de 0.3333333333333333(40.0%)
+
+Suporte entre pao e cafe é de 0.3(30.0%)
+Confiança entre pao e cafe é de 0.6(30.0%)
+
+Suporte entre pao e cerveja é de 0.4(40.0%)
+Confiança entre pao e cerveja é de 0.4(40.0%)
+
+Suporte entre pao e pao é de 0.9(90.0%)
+Confiança entre pao e pao é de 0.6(90.0%)
+
+Suporte entre pao e manteiga é de 1.3(130.0%)
+Confiança entre pao e manteiga é de 0.65(130.0%)
+
+Suporte entre pao e arroz é de 1.3(130.0%)
+Confiança entre pao e arroz é de 0.52(130.0%)
+
+Suporte entre pao e feijao é de 1.3(130.0%)
+Confiança entre pao e feijao é de 0.43333333333333335(130.0%)
+
+Suporte entre manteiga e cafe é de 0.3(30.0%)
+Confiança entre manteiga e cafe é de 0.6(30.0%)
+
+Suporte entre manteiga e cerveja é de 0.4(40.0%)
+Confiança entre manteiga e cerveja é de 0.4(40.0%)
+
+Suporte entre manteiga e pao é de 0.8(80.0%)
+Confiança entre manteiga e pao é de 0.5333333333333333(80.0%)
+
+Suporte entre manteiga e manteiga é de 1.3(130.0%)
+Confiança entre manteiga e manteiga é de 0.65(130.0%)
+
+Suporte entre manteiga e arroz é de 1.3(130.0%)
+Confiança entre manteiga e arroz é de 0.52(130.0%)
+
+Suporte entre manteiga e feijao é de 1.3(130.0%)
+Confiança entre manteiga e feijao é de 0.43333333333333335(130.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 0.2(20.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 0.2(20.0%)
+
+Suporte entre arroz e feijao é de 0.3(30.0%)
+Confiança entre arroz e feijao é de 0.25(30.0%)
+
+Suporte entre leite e cafe é de 0.1(10.0%)
+Confiança entre leite e cafe é de 0.5(10.0%)
+
+Suporte entre leite e cerveja é de 0.1(10.0%)
+Confiança entre leite e cerveja é de 0.5(10.0%)
+
+Suporte entre leite e pao é de 0.2(20.0%)
+Confiança entre leite e pao é de 1.0(20.0%)
+
+Suporte entre leite e manteiga é de 0.2(20.0%)
+Confiança entre leite e manteiga é de 1.0(20.0%)
+
+Suporte entre leite e arroz é de 0.0(0.0%)
+Confiança entre leite e arroz é de 0.0(0.0%)
+
+Suporte entre leite e feijao é de 0.0(0.0%)
+Confiança entre leite e feijao é de 0.0(0.0%)
+
+Suporte entre cafe e cafe é de 0.3(30.0%)
+Confiança entre cafe e cafe é de 1.0(30.0%)
+
 Suporte entre cafe e cerveja é de 0.0(0.0%)
 Confiança entre cafe e cerveja é de 0.0(0.0%)
+
+Suporte entre cafe e pao é de 0.3(30.0%)
+Confiança entre cafe e pao é de 1.0(30.0%)
+
+Suporte entre cafe e manteiga é de 0.3(30.0%)
+Confiança entre cafe e manteiga é de 1.0(30.0%)
+
+Suporte entre cafe e arroz é de 0.0(0.0%)
+Confiança entre cafe e arroz é de 0.0(0.0%)
+
+Suporte entre cafe e feijao é de 0.0(0.0%)
+Confiança entre cafe e feijao é de 0.0(0.0%)
+
+Suporte entre cerveja e cafe é de 0.0(0.0%)
+Confiança entre cerveja e cafe é de 0.0(0.0%)
+
+Suporte entre cerveja e cerveja é de 0.2(20.0%)
+Confiança entre cerveja e cerveja é de 1.0(20.0%)
 
 Suporte entre cerveja e pao é de 0.1(10.0%)
 Confiança entre cerveja e pao é de 0.5(10.0%)
 
+Suporte entre cerveja e manteiga é de 0.1(10.0%)
+Confiança entre cerveja e manteiga é de 0.5(10.0%)
+
+Suporte entre cerveja e arroz é de 0.0(0.0%)
+Confiança entre cerveja e arroz é de 0.0(0.0%)
+
+Suporte entre cerveja e feijao é de 0.0(0.0%)
+Confiança entre cerveja e feijao é de 0.0(0.0%)
+
+Suporte entre pao e cafe é de 0.3(30.0%)
+Confiança entre pao e cafe é de 0.6(30.0%)
+
+Suporte entre pao e cerveja é de 0.1(10.0%)
+Confiança entre pao e cerveja é de 0.2(10.0%)
+
+Suporte entre pao e pao é de 0.5(50.0%)
+Confiança entre pao e pao é de 1.0(50.0%)
+
 Suporte entre pao e manteiga é de 0.4(40.0%)
 Confiança entre pao e manteiga é de 0.8(40.0%)
+
+Suporte entre pao e arroz é de 0.0(0.0%)
+Confiança entre pao e arroz é de 0.0(0.0%)
+
+Suporte entre pao e feijao é de 0.0(0.0%)
+Confiança entre pao e feijao é de 0.0(0.0%)
+
+Suporte entre manteiga e cafe é de 0.3(30.0%)
+Confiança entre manteiga e cafe é de 0.6(30.0%)
+
+Suporte entre manteiga e cerveja é de 0.1(10.0%)
+Confiança entre manteiga e cerveja é de 0.2(10.0%)
+
+Suporte entre manteiga e pao é de 0.4(40.0%)
+Confiança entre manteiga e pao é de 0.8(40.0%)
+
+Suporte entre manteiga e manteiga é de 0.5(50.0%)
+Confiança entre manteiga e manteiga é de 1.0(50.0%)
 
 Suporte entre manteiga e arroz é de 0.0(0.0%)
 Confiança entre manteiga e arroz é de 0.0(0.0%)
 
+Suporte entre manteiga e feijao é de 0.0(0.0%)
+Confiança entre manteiga e feijao é de 0.0(0.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 1.0(20.0%)
+
 Suporte entre arroz e feijao é de 0.1(10.0%)
 Confiança entre arroz e feijao é de 0.5(10.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 1.0(20.0%)
+
+Suporte entre arroz e feijao é de 0.1(10.0%)
+Confiança entre arroz e feijao é de 0.5(10.0%)
+
+Suporte entre leite e cafe é de 0.1(10.0%)
+Confiança entre leite e cafe é de 0.5(10.0%)
+
+Suporte entre leite e cerveja é de 0.1(10.0%)
+Confiança entre leite e cerveja é de 0.5(10.0%)
+
+Suporte entre leite e pao é de 0.2(20.0%)
+Confiança entre leite e pao é de 1.0(20.0%)
+
+Suporte entre leite e manteiga é de 0.2(20.0%)
+Confiança entre leite e manteiga é de 1.0(20.0%)
+
+Suporte entre leite e arroz é de 0.0(0.0%)
+Confiança entre leite e arroz é de 0.0(0.0%)
+
+Suporte entre leite e feijao é de 0.0(0.0%)
+Confiança entre leite e feijao é de 0.0(0.0%)
+
+Suporte entre cafe e cafe é de 0.3(30.0%)
+Confiança entre cafe e cafe é de 1.0(30.0%)
+
+Suporte entre cafe e cerveja é de 0.0(0.0%)
+Confiança entre cafe e cerveja é de 0.0(0.0%)
+
+Suporte entre cafe e pao é de 0.3(30.0%)
+Confiança entre cafe e pao é de 1.0(30.0%)
+
+Suporte entre cafe e manteiga é de 0.3(30.0%)
+Confiança entre cafe e manteiga é de 1.0(30.0%)
+
+Suporte entre cafe e arroz é de 0.0(0.0%)
+Confiança entre cafe e arroz é de 0.0(0.0%)
+
+Suporte entre cafe e feijao é de 0.0(0.0%)
+Confiança entre cafe e feijao é de 0.0(0.0%)
+
+Suporte entre cerveja e cafe é de 0.0(0.0%)
+Confiança entre cerveja e cafe é de 0.0(0.0%)
+
+Suporte entre cerveja e cerveja é de 0.2(20.0%)
+Confiança entre cerveja e cerveja é de 1.0(20.0%)
+
+Suporte entre cerveja e pao é de 0.1(10.0%)
+Confiança entre cerveja e pao é de 0.5(10.0%)
+
+Suporte entre cerveja e manteiga é de 0.1(10.0%)
+Confiança entre cerveja e manteiga é de 0.5(10.0%)
+
+Suporte entre cerveja e arroz é de 0.0(0.0%)
+Confiança entre cerveja e arroz é de 0.0(0.0%)
+
+Suporte entre cerveja e feijao é de 0.0(0.0%)
+Confiança entre cerveja e feijao é de 0.0(0.0%)
+
+Suporte entre pao e cafe é de 0.3(30.0%)
+Confiança entre pao e cafe é de 0.6(30.0%)
+
+Suporte entre pao e cerveja é de 0.1(10.0%)
+Confiança entre pao e cerveja é de 0.2(10.0%)
+
+Suporte entre pao e pao é de 0.5(50.0%)
+Confiança entre pao e pao é de 1.0(50.0%)
+
+Suporte entre pao e manteiga é de 0.4(40.0%)
+Confiança entre pao e manteiga é de 0.8(40.0%)
+
+Suporte entre pao e arroz é de 0.0(0.0%)
+Confiança entre pao e arroz é de 0.0(0.0%)
+
+Suporte entre pao e feijao é de 0.0(0.0%)
+Confiança entre pao e feijao é de 0.0(0.0%)
+
+Suporte entre manteiga e cafe é de 0.3(30.0%)
+Confiança entre manteiga e cafe é de 0.6(30.0%)
+
+Suporte entre manteiga e cerveja é de 0.1(10.0%)
+Confiança entre manteiga e cerveja é de 0.2(10.0%)
+
+Suporte entre manteiga e pao é de 0.4(40.0%)
+Confiança entre manteiga e pao é de 0.8(40.0%)
+
+Suporte entre manteiga e manteiga é de 0.5(50.0%)
+Confiança entre manteiga e manteiga é de 1.0(50.0%)
+
+Suporte entre manteiga e arroz é de 0.0(0.0%)
+Confiança entre manteiga e arroz é de 0.0(0.0%)
+
+Suporte entre manteiga e feijao é de 0.0(0.0%)
+Confiança entre manteiga e feijao é de 0.0(0.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 1.0(20.0%)
+
+Suporte entre arroz e feijao é de 0.1(10.0%)
+Confiança entre arroz e feijao é de 0.5(10.0%)
+
+Suporte entre arroz e cafe é de 0.0(0.0%)
+Confiança entre arroz e cafe é de 0.0(0.0%)
+
+Suporte entre arroz e cerveja é de 0.0(0.0%)
+Confiança entre arroz e cerveja é de 0.0(0.0%)
+
+Suporte entre arroz e pao é de 0.0(0.0%)
+Confiança entre arroz e pao é de 0.0(0.0%)
+
+Suporte entre arroz e manteiga é de 0.0(0.0%)
+Confiança entre arroz e manteiga é de 0.0(0.0%)
+
+Suporte entre arroz e arroz é de 0.2(20.0%)
+Confiança entre arroz e arroz é de 1.0(20.0%)
 
 Suporte entre arroz e feijao é de 0.1(10.0%)
 Confiança entre arroz e feijao é de 0.5(10.0%)
